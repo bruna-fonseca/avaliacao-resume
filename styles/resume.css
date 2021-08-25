@@ -1,0 +1,112 @@
+.profile-section {
+  display: flex;
+  align-items: center;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 38px 0 31px 29px
+}
+
+.profile-info {
+  margin-left: 11px;
+}
+
+.profile-info h1 {
+  width: 250px;
+  margin-bottom: 6px;
+}
+
+.profile p {
+  line-height: 18px;
+  margin-bottom: 36px;
+}
+
+.description {
+  margin: 25px;
+}
+
+.description h2 {
+  margin-bottom: 10px;
+}
+
+.description p {
+  color: #222222;
+}
+
+.title {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+.description  {
+  font-weight: normal;
+  margin-bottom: 36px;
+}
+
+.professional-experience li {
+  margin-bottom: 36px;
+}
+
+.education li {
+  margin: 10px;
+}
+
+.education ul:last-child {
+  margin-bottom: 36px;
+}
+
+.projects li {
+  margin: 10px;
+}
+
+.aside-bar {
+  margin: 300px 30px 0 40px;
+}
+
+.aside-bar h2 {
+  margin-bottom: 11px;
+}
+
+.aside-bar p {
+  margin-bottom: 8px;
+  line-height: 15px;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact h2,p {
+  color:white;
+}
+
+.social-networks img {
+  width: 35px;
+  margin-top: 15px;
+  margin-right: 7px;
+}
+
+.social-networks a:first-child {
+  margin-left: 30px;
+}
+
+.skills h2 {
+  margin-top: 80px;
+  margin-bottom: 11px;
+  color: white;
+}
+
+.skills p {
+  border-bottom: 2px solid white;
+  border-width: 4px;
+  width: 250px;
+  padding-bottom: 10px;
+}
+
+.skill-p {
+  margin-bottom: 9px;
+}
